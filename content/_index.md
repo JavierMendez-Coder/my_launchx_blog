@@ -1,10 +1,16 @@
 ---
-title: Launch X Bitácora de viaje
+title: Launch X Travel Log
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hi ✌️ my name is Javier Méndez, and this is my personal blog where I will be sharing my experiences during the Launch X's Backend program.
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.
+Consider yourself invited to read more about what I've learned and experienced during the program.
+
+My expectations for this project are:
+
+- Learn more about Git and GitHub
+- Apply my Frontend knowledge
+- Learn how to design Backend projects
 
 🚀
