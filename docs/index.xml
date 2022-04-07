@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Travel Log on Javier Méndez&#39;s Travel Log </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://javiermendez-coder.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://javiermendez-coder.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My learning route through Launch X</title>
+      <link>https://javiermendez-coder.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://javiermendez-coder.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>So far here is what I&amp;rsquo;ve seen:
+ Git GitHub Programming logic Python Jupyter notebooks Command Line HTML CSS JavaScript NodeJS Work (a little) with APIs Vue Angular Azure  </description>
+    </item>
+    
     <item>
       <title>The Culture of a Software Developer</title>
       <link>https://javiermendez-coder.github.io/my_launchx_blog/posts/intro/</link>
