@@ -7,15 +7,12 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+👋 Hi there! here you'll learn a bit about myself.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> My name is Javier Méndez, and at the time of creating this project 
+> I'm a 23 years old guy, graduated in the Software Engineer major 
+> from the Instituto Tecnológico de Sonora (ITSON).
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+So far I already have **some** (not a lot) experience about software 
+development, its life cycle, development metodologies, good practices, 
+among other things.
