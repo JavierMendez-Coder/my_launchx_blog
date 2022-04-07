@@ -13,6 +13,6 @@ menu:
 > I'm a 23 years old guy, graduated in the Software Engineer major 
 > from the Instituto Tecnológico de Sonora (ITSON).
 
-So far I already have **some** (not a lot) experience about software 
-development, its life cycle, development metodologies, good practices, 
-among other things.
+So far, I already have **some** (not a lot of) experience about software 
+development, its life cycle, development methodologies, good 
+practices, among other things.
