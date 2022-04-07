@@ -1,7 +1,13 @@
 ---
-title: "Mis expectativas"
+title: "The Culture of a Software Developer"
 date: 2022-02-21T18:16:21-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: 'This is my very first post of my travesy in the Launch X's Backend Mission with Node JS.'
 ---
 
-Usa este post para anotar tus expectativas de la misión.
+In my opinion, a software profesional's culture should be based upon:
+
+- Team work
+- Respect
+- Trust
+- Dedication
+- Proactivity
