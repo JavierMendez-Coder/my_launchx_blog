@@ -1,6 +1,6 @@
 ---
 title: "The Culture of a Software Developer"
-date: 2022-03-07
+date: 2022-04-07
 description: "This is my very first post of my travesy in the Launch X's Backend Mission with Node JS."
 ---
 
