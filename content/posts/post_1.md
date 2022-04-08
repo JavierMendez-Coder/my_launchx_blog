@@ -1,6 +1,6 @@
 ---
 title: "My learning route through Launch X"
-date: 2022-03-07
+date: 2022-04-07
 description: "Here I'm going to talk about my travesy in Innovacción Virtual's Launch X"
 ---
 
